@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Vardhan 👋
 
-<!--
-**Vardhan-vendi/Vardhan-vendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+MCA candidate focused on building practical applications
+and developing strong software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- Python
+- SQL
+
+**Backend**
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+
+**Frontend**
+- React.js
+- HTML5
+- CSS3
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🤖 Currently Learning
+
+- Machine Learning with Python
+- Scikit-learn
+- Supervised Learning
+- Unsupervised Learning
+- ML Model Evaluation
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce MERN Application
+React.js + Node.js + Express.js + MongoDB + JWT
+
+### 🏦 Core Java Banking System
+Java + OOP + Collections + JDBC + Spring Boot
+
+### ▶️ YouTube Clone
+React.js + JavaScript + YouTube Data API
+
+### 🤖 Machine Learning Projects
+Python + Pandas + NumPy + Scikit-learn
+
+---
+
+## 🎯 Current Goal
+
+Building real-world software and Machine Learning projects
+while continuously improving my development skills.
+
+---
